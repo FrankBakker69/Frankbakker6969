@@ -84,7 +84,7 @@
             ball.style.backgroundImage = "url('pad/naar/je/bal_afbeelding.jpg')"; // Vervang 'pad/naar/je/bal_afbeelding.jpg' met het pad naar je bal afbeelding
 
             // Achtergrondafbeelding voor doel instellen
-            goal.style.backgroundImage = "url('pad/naar/je/doel_afbeelding.jpg')"; // Vervang 'pad/naar/je/doel_afbeelding.jpg' met het pad naar je doel afbeelding
+            goal.style.backgroundImage = "leleke tim.jpg"; // Vervang 'pad/naar/je/doel_afbeelding.jpg' met het pad naar je doel afbeelding
         });
     </script>
 </body>
