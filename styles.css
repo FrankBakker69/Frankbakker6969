@@ -81,7 +81,7 @@
             }
 
             // Achtergrondafbeelding voor bal instellen
-            ball.style.backgroundImage = "url('')"; //
+            ball.style.backgroundImage = "url('tim heeft een griep lekkere moeder.jpg')"; //
 
             // Achtergrondafbeelding voor doel instellen
             goal.style.backgroundImage = "url('leleke tim.jpg')"; //
