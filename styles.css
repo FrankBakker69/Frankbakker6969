@@ -81,10 +81,10 @@
             }
 
             // Achtergrondafbeelding voor bal instellen
-            ball.style.backgroundImage = "url('pad/naar/je/bal_afbeelding.jpg')"; // Vervang 'pad/naar/je/bal_afbeelding.jpg' met het pad naar je bal afbeelding
+            ball.style.backgroundImage = "url('')"; //
 
             // Achtergrondafbeelding voor doel instellen
-            goal.style.backgroundImage = "leleke tim.jpg"; // Vervang 'pad/naar/je/doel_afbeelding.jpg' met het pad naar je doel afbeelding
+            goal.style.backgroundImage = "url('leleke tim.jpg')"; //
         });
     </script>
 </body>
